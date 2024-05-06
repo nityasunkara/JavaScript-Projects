@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+#one{
+    margin:30px 40px;
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+}
+p{
+    line-height: 18px;
+}
